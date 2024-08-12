@@ -1,0 +1,27 @@
+.parent-card {
+  position: relative;
+}
+.name,
+.number,
+.dataEnd,
+.country {
+  position: absolute;
+}
+
+.name {
+  bottom: 30px;
+  left: 60px;
+  font-size: 8px;
+}
+.number {
+  top: 100px;
+  left: 130px;
+}
+.dataEnd {
+  bottom: 30px;
+  right: 35px;
+}
+.country {
+  top: 55px;
+  right: 60px;
+}
